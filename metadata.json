@@ -1,0 +1,6 @@
+{
+  "name": "42 — La Grande Réponse (NSI.xyz)",
+  "description": "Exploration interactive, scientifique et ludique du nombre 42 : NSI, mathématiques, H2G2 de Douglas Adams, terminal rétro-futuriste Deep Thought, quiz galactique et secrets cachés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
